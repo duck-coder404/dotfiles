@@ -1,0 +1,8 @@
+#ignore everything
+*
+
+#include:
+!dot_bashrc
+!nvim/
+!git/
+!.gitignore
