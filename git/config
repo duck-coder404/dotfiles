@@ -1,0 +1,9 @@
+[user]
+	name = duck-coder404
+	email = "example@github.com"
+[core]
+	editor = nvim
+[credential]
+	helper = store
+[init]
+	defaultBranch = main
